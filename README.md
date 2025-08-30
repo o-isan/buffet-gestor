@@ -33,21 +33,21 @@ Registros como filas
 
 ## Muestras de código
 **Añadir gasto**
-![ventana de añadir un gasto](img/6.jpg)
+![ventana de añadir un gasto](img/6.png)
 
 
 **Añadir ingreso**
-![ventana de añadir un ingreso](img/7.jpg)
+![ventana de añadir un ingreso](img/7.png)
 
 
 **Iniciar sesión**
 No es realmente inicio de sesión en una web, sino una forma de proteger la agenda
 Las credenciales se configuran la primera vez que se ejecuta la app (cuando no hay nada guardado en BBDD)
-![ventana de login](img/8.jpg)
+![ventana de login](img/8.png)
 
 
 **Configuración**
-![Configuración](img/9.jpg)
+![Configuración](img/9.png)
 
 
 
